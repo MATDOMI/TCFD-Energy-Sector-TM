@@ -1,0 +1,8 @@
+Instalar lo siguiente:
+
+pip install spacy pdfplumber nltk
+python -m spacy download es_core_news_lg
+
+Ejecutar así:
+
+python todoJunto.py (o las partes por separado)
