@@ -9,7 +9,7 @@ _1.Journal_DATA.docx # Basis for the document in 'PAPER' format from the journal
 │─── *,txt files of examples of processed files (preprocessed, dirty and clean text for example).
 │── *.py files to execute different parts of the methodology
 │─── *.PDF files examples of reports discussed
-│─── requirements.txt / how to run it # Python dependencies
+│─── requirements.txt / como ejecutarlo # Python dependencies
 │─── README.md # This file
 
 ⚙ Features & Methods
