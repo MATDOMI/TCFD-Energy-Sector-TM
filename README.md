@@ -6,7 +6,6 @@ This study investigates the voluntary implementation of the Task Force on Cli-ma
 
 🏗 Repository structure
 _1.Journal_DATA.docx # Basis for the document in 'PAPER' format from the journal DATA, published by MDPI.
-world-3533625.pdf # Submitted to MDPI publisher at Journal World : Paper PDF
 │─── *,txt files of examples of processed files (preprocessed, dirty and clean text for example).
 │── *.py files to execute different parts of the methodology
 │─── *.PDF files examples of reports discussed
