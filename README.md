@@ -24,6 +24,7 @@ thon-docx v.1.1.2 and pdfplumber v.0.11.4 libraries were used to read the docume
 whereas the spaCy v.3.8.4 library facilitated tokenization. Whoosh v.2.7.4 was em- 271
 ployed for full-text searches. Microsoft Excel was used to compile and analyze the 272
 results.
+
 📊 Key findings:
 Continuous improvements in compliance with the TCFD.
 Differences in the quality of disclosures.
