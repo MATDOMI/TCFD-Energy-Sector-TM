@@ -13,17 +13,11 @@ _1.Journal_DATA.docx # Basis for the document in 'PAPER' format from the journal
 │─── README.md # This file
 
 ⚙ Features & Methods
-1. Definition and Objectives: This study investigated whether the analyzed companies 263
-comply with the TCFD framework using TM in the financial reporting of annual and 264
-sustainability reports. We collected and preprocessed 64 reports from six publicly 265
-traded companies in the Spanish energy sector of IBEX-35 between 2020 and 2023. 266
-2. Tools and Resources used: Reports were manually downloaded in PDF format and 267
-hosted in a shared Microsoft OneDrive space. They were sorted and formatted using 268
-Adobe Pro X and converted into Microsoft Word format. Python v. 3.11, and the Py- 269
-thon-docx v.1.1.2 and pdfplumber v.0.11.4 libraries were used to read the documents, 270
-whereas the spaCy v.3.8.4 library facilitated tokenization. Whoosh v.2.7.4 was em- 271
-ployed for full-text searches. Microsoft Excel was used to compile and analyze the 272
-results.
+1. Definition and Objectives: This study investigated whether the analyzed companies
+comply with the TCFD framework using TM in the financial reporting of annual and sustainability reports.
+We collected and preprocessed 64 reports from six publicly.
+traded companies in the Spanish energy sector of IBEX-35 between 2020 and 2023.
+3. Tools and Resources used: Reports were manually downloaded in PDF format and hosted in a shared Microsoft OneDrive space. They were sorted and formatted using Adobe Pro X and converted into Microsoft Word format. The software used was, Python v. 3.11  Python-docx v.1.1.2, and pdfplumber v.0.11.4 libraries were used to read the documents, whereas the spaCy v.3.8.4 library facilitated tokenization. Whoosh v.2.7.4 was employed for full-text searches. Microsoft Excel was used to compile and analyze the results. The phrase consists of a series of commands used in a programming environment, specifically Python, to install libraries and download a natural language processing model
 
 📊 Key findings:
 Continuous improvements in compliance with the TCFD.
