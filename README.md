@@ -1,3 +1,6 @@
+🌍 Climate Disclosure Analysis with Text Mining (Data Science)
+
+📌 Overview:
 This repository contains the code and data of the manuscript:
 Assessment of TCFD voluntary disclosure compliance in the Spanish energy sector: A text mining approach to climate change financial disclosures.
 
@@ -9,8 +12,28 @@ _1.Journal_DATA.docx # Basis for the document in 'PAPER' format from the journal
 │─── *,txt files of examples of processed files (preprocessed, dirty and clean text for example).
 │── *.py files to execute different parts of the methodology
 │─── *.PDF files examples of reports discussed
-│─── requirements.txt / como ejecutarlo # Python dependencies
+│─── requirements.txt / como ejecutarlo.txt # Python dependencies
 │─── README.md # This file
+📁 data/ – (or the name of your folder - Not included) Place corporate reports here before running the notebook.
+📁 results/ – (or the name of your folder - Not included )Stores generated figures and tables from the analysis.
+
+🚀 Getting Started
+1️⃣ Clone this repository
+2️⃣ Install dependencies
+Ensure you have Python 3.8+ installed. Then, install the required packages:
+pip install -r requirements.txt / como ejecutarlo.txt
+3️⃣ Prepare the data
+Download corporate sustainability reports from:
+The analyzed PDF reports were obtained from six corporate website officials of the companies studied.
+Web site Enagás: https://www.enagas.es/es/
+Web site Endesa: https://www.endesa.com/
+Web site Iberdrola: https://www.iberdrola.es/
+Web site Naturgy: https://www.naturgy.com/
+Web site REE: https://www.ree.es/es
+Web site Repsol: https://www.repsol.com/es/index.cshtml
+Place PDF reports inside the data/ folder (or the name of your folder)
+4️⃣ Run the program
+Run the notebook step by step to reproduce the analysis.
 
 ⚙ Features & Methods
 1. Definition and Objectives: This study investigated whether the analyzed companies
